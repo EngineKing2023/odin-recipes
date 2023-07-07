@@ -1,0 +1,58 @@
+* {
+    border: 2PX solid red;
+    text-align: center;
+}
+body {
+    background-color: rgb(97, 80, 58);
+    margin: 0px;
+}
+
+
+h1{
+    
+    color: whitesmoke;
+    font-size: 62px;
+}
+p{
+    margin: 02% auto;
+    max-width: 450px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+ul{
+    padding: 0px;
+}
+ol{
+    padding: 0px;
+}
+li {
+    text-align: left;
+    max-width: 450px;
+    color: white;
+    list-style: none;
+    padding: 5px 0px;
+    margin: 0px auto;
+}
+a{
+    color: rgb(83, 75, 75);
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+img {
+    max-width: 20%;
+    max-height: 20%;
+}
+.yam{
+    color: yellow;
+}
+.ai{
+    color: rgb(58, 214, 58);
+}
+.ca{
+    color: rgb(236, 65, 65);
+}
